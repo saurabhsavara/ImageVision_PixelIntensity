@@ -2,7 +2,6 @@
 
 # Pixel Intensity
 
-##
 
 ## **Project description**
 
