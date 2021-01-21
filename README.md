@@ -1,4 +1,4 @@
-# ImageVision_PixelIntensity
+# Image Vision
 
 # Pixel Intensity
 
